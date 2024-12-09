@@ -116,7 +116,7 @@ const Navbar = () => {
                 </div>
             </div>
             <div>
-                <img src="./src/assets/profile.png" alt="" className='w-10 h-10 rounded-full cursor-pointer sm:block hidden' />
+                <img src={assets.profile} alt="" className='w-10 h-10 rounded-full cursor-pointer sm:block hidden' />
             </div>
             <svg onClick={() => setMenu(true)} width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" className='block sm:hidden'>
                 <path d="M3 12H21M3 6H21M3 18H21" stroke="#344054" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
