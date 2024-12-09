@@ -4,7 +4,7 @@
 - ReactJs
 - TailwindCss
 
-Live link hosted here: 
+Live link hosted here: https://zyskassigment.netlify.app/
 
 
 
